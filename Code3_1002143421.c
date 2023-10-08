@@ -95,7 +95,8 @@ int main()
         case 20:
             printf("Very doubtful.");
             break;
-        default: break;
+        default: 
+            break;
         }
    
 }
